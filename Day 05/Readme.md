@@ -1,4 +1,4 @@
-### The Persistent Data Problem in Containers
+### The Persistent Data Problem in Docker
 
 Containers are designed to be **lightweight and immutable**, which makes them ideal for deploying applications in a consistent and reproducible manner. This immutability is a cornerstone of containerized systems, offering several benefits but also introducing challenges in handling persistent data. Let’s delve deeper:
 
